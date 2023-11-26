@@ -1,0 +1,10 @@
+#app {
+    width: clamp(350px, 50%, 1200px);
+    margin-left: auto;
+    margin-right: auto;
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap; */
+    text-align: center;
+}
